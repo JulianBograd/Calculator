@@ -58,3 +58,12 @@
     grid-row-gap: 20px;
     grid-column-gap: 20px;
   }
+
+  .keypad-btns button {
+    outline: none;
+    border: none;
+    border-radius: 122px;
+    background-color: #232534;
+    color: #fff;
+    font-size: x-large;
+  }
