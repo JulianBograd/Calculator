@@ -67,3 +67,9 @@
     color: #fff;
     font-size: x-large;
   }
+
+  .keypad-btns .fun_btn {
+    color: #000;
+    background: #00E6F6;
+    font-weight: bold;
+  }
