@@ -51,3 +51,10 @@
     line-height: 3;
     font-size: larger;
   }
+
+  .keypad-btns {
+    display: grid;
+    grid: repeat(5, 70px) / repeat(4, 70px);
+    grid-row-gap: 20px;
+    grid-column-gap: 20px;
+  }
